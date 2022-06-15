@@ -114,10 +114,10 @@
     </dependencies>
   </dependencyManagement>
   <properties>
-    <jdk.version>1.8</jdk.version>
+    <micronaut.version>1.0.0.RC2</micronaut.version>
     <exec.mainClass>hello.world.server.Application</exec.mainClass>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <micronaut.version>1.0.0.RC2</micronaut.version>
+    <jdk.version>1.8</jdk.version>
   </properties>
 </project>
 
